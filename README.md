@@ -10,6 +10,9 @@ To install Snscrape we need to use developer package to get this code running
 
 First of all I created a 'function' python file and programmed the bacis function of scrapping and the option of uploading to MongoDB.
 
+
+
+
 ![Best-Twitter-Scrapers](https://github.com/Rabbit3112/project_1/assets/121392940/d33f6d0e-9d57-471b-bffb-d8802f616bca)
 
 
