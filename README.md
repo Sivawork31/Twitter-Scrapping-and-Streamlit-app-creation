@@ -18,7 +18,7 @@ After creating that file I created a streamlit web application to make the code 
 
 This streamlit interface is used to retrieve tweet data with easy to use app interface...By using the different set options like search for user name or Tweet id  , starting date , ending date , maximum number of tweets, etc.... to scrape the data from Twitter according to their needs and upload it to our MongoDB database..
 
-We can also save or download  the data in CSV/JSON format also ...
+We can also save or download  the data in CSV/JSON format also ..
 
 Enjoy coding :).....................
 
