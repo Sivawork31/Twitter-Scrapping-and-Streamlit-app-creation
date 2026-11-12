@@ -1,5 +1,5 @@
-# Twitter Scraping using SNScrape  
-Hello friends in this repository I make a code for scrapping the Twitter data using SNScrape and connected with NoSQL - MongoDB server
+# Twitter Scraping using SNScrape
+Hello friends in this repository I make a code for scrapping the Twitter data using SNScrape and connected with NoSQL - MongoDB server 
 
 To install Snscrape we need to use developer package to get this code running
 
